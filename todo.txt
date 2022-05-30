@@ -4,6 +4,6 @@ MY TO-DO LIST
 2. Coding in Java.
 3. Read books.
 4. Attend classes on time.
-5. Go shopping
+5. Go for grocery shopping
 6. Apply for remote jobs.
-
+7. Practice JDBC,JSP, Servlets programs
